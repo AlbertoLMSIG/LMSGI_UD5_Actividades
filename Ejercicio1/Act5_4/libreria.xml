@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet href="libreria.xsl" type="text/xsl"?>
+<libreria>
+    <libros>
+        <autor>Pepe Ortega</autor>
+        <titulo>Physics-based animation</titulo>
+        <editorial>Charles River Media</editorial>
+        <precio>20.06</precio>
+        <codLibro>4321</codLibro>
+        <numPaginas>150</numPaginas>
+    </libros>
+    <libros>
+        <autor>Amancio ortega</autor>
+        <titulo>Principio de seguridad informatica</titulo>
+        <editorial>Charles River Media</editorial>
+        <precio>9.00</precio>
+        <codLibro>3214</codLibro>
+        <numPaginas>110</numPaginas>
+    </libros>
+    <libros>
+        <autor>Alberto Sánchez</autor>
+        <titulo>Fuerzas ARmadas</titulo>
+        <editorial>Amor SL</editorial>
+        <precio>5.12</precio>
+        <codLibro>1234</codLibro>
+        <numPaginas>100</numPaginas>
+    </libros>
+    <libros>
+        <autor>Roberto Aparicio</autor>
+        <titulo>El arte de querer</titulo>
+        <editorial>Amor SL</editorial>
+        <precio>10.50</precio>
+        <codLibro>1234</codLibro>
+        <numPaginas>100</numPaginas>
+    </libros>
+    <libros>
+        <autor>Juan Muñoz</autor>
+        <titulo>Invierno en Verano</titulo>
+        <editorial>Amor SL</editorial>
+        <precio>12.50</precio>
+        <codLibro>1234</codLibro>
+        <numPaginas>100</numPaginas>
+    </libros>
+    <libros>
+        <autor>Diego Perez</autor>
+        <titulo>Futbolo SL</titulo>
+        <editorial>Amor SL</editorial>
+        <precio>10.50</precio>
+        <codLibro>1234</codLibro>
+        <numPaginas>100</numPaginas>
+    </libros>
+    <libros>
+        <autor>Carlota Amaya</autor>
+        <titulo>Pan al dulce</titulo>
+        <editorial>Amor SL</editorial>
+        <precio>60.50</precio>
+        <codLibro>1234</codLibro>
+        <numPaginas>100</numPaginas>
+    </libros>
+</libreria>
+    

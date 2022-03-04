@@ -11,16 +11,19 @@
                 <th>Precio</th>
                 <th>ISBN</th>
             </tr>
-            <!-- <xsl:for-each select="libreria/libros[autor='Pepe Ortega']"> -->
-            <xsl:for-each select="libreria/libros[autor!='Pepe Ortega']">
-            <xsl:sort select="precio" data-type="number"></xsl:sort>
+            <xsl:for-each select="libreria/libros[autor='Juan Muñoz']">
+            <!--<xsl:sort select="precio" data-type="number"></xsl:sort>  ORDENA DE MENOR A MAYOR-->
+             <xsl:if test="precio &gt;10" data-type = "number"> <!-- MUESTRA TOS LOS LIBROS MAYORES DE 10 EUROS -->
+
             <tr>
                 <td><xsl:value-of select="titulo"/></td>
                 <td><xsl:value-of select="autor"/></td>
                 <td><xsl:value-of select="precio"/></td>
                 <td><xsl:value-of select="codLibro"/></td>
             </tr>
-        </xsl:for-each>  
+        </xsl:if>
+        </xsl:for-each> 
+    
         </table>
     </body>
 </html>
