@@ -5,7 +5,7 @@
     <body>
     <h1>Mi biblioteca personal de Alberto Marquez Mendoza</h1>
         <table border="1">
-        <tr bgcolor="#FF7F00">
+        <tr bgcolor="#d264dd">
             <th>Título_del_album</th>
             <th>Sello_discográfico</th>
             <th>Año_de_publicación</th>
