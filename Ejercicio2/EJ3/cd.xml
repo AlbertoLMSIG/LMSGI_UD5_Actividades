@@ -2,152 +2,152 @@
 <?xml-stylesheet type="text/xsl" href="cd_p3.xsl"?>
 <CDs>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD1</Título_del_album>
+        <Cancion tiempo="123">PELELE</Cancion>
+        <Cancion tiempo="456">DE LA CALLE</Cancion>
+        <Cancion tiempo="789">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="342">POBRECITOS</Cancion>
+        <Cancion tiempo="134">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="345">LA VIDA ES</Cancion>
+        <Cancion tiempo="532">NORMAL</Cancion>
+        <Cancion tiempo="765">NO Y NO</Cancion>
+        <Cancion tiempo="983">EL COLETA</Cancion>
+        <Cancion tiempo="834">DIMELO VATO</Cancion>
         <Sello_discográfico>MORAD S.L</Sello_discográfico>
         <Año_de_publicación>2020</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD2</Título_del_album>
+        <Cancion tiempo="564">PELELE</Cancion>
+        <Cancion tiempo="546">DE LA CALLE</Cancion>
+        <Cancion tiempo="247">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="189">POBRECITOS</Cancion>
+        <Cancion tiempo="789">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="002">LA VIDA ES</Cancion>
+        <Cancion tiempo="012">NORMAL</Cancion>
+        <Cancion tiempo="044">NO Y NO</Cancion>
+        <Cancion tiempo="565">EL COLETA</Cancion>
+        <Cancion tiempo="089">DIMELO VATO</Cancion>
         <Sello_discográfico>CASA PL</Sello_discográfico>
         <Año_de_publicación>2005</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD3</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="061">DE LA CALLE</Cancion>
+        <Cancion tiempo="062">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="063">POBRECITOS</Cancion>
+        <Cancion tiempo="064">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="065">LA VIDA ES</Cancion>
+        <Cancion tiempo="066">NORMAL</Cancion>
+        <Cancion tiempo="067">NO Y NO</Cancion>
+        <Cancion tiempo="068">EL COLETA</Cancion>
+        <Cancion tiempo="029">DIMELO VATO</Cancion>
         <Sello_discográfico>WARNES SL</Sello_discográfico>
         <Año_de_publicación>1990</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD4</Título_del_album>
+        <Cancion tiempo="021">PELELE</Cancion>
+        <Cancion tiempo="034">DE LA CALLE</Cancion>
+        <Cancion tiempo="065">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="086">POBRECITOS</Cancion>
+        <Cancion tiempo="089">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="056">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>MORENO SL</Sello_discográfico>
         <Año_de_publicación>2001</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD5</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="069">DE LA CALLE</Cancion>
+        <Cancion tiempo="069">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="069">POBRECITOS</Cancion>
+        <Cancion tiempo="069">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="069">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>LA CASA SL</Sello_discográfico>
         <Año_de_publicación>2002</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD6</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="069">DE LA CALLE</Cancion>
+        <Cancion tiempo="069">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="069">POBRECITOS</Cancion>
+        <Cancion tiempo="069">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="069">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>SONI MUSIC</Sello_discográfico>
         <Año_de_publicación>2009</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD7</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="069">DE LA CALLE</Cancion>
+        <Cancion tiempo="069">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="069">POBRECITOS</Cancion>
+        <Cancion tiempo="069">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="069">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>WARNES PRO</Sello_discográfico>
         <Año_de_publicación>2010</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD8</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="069">DE LA CALLE</Cancion>
+        <Cancion tiempo="069">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="069">POBRECITOS</Cancion>
+        <Cancion tiempo="069">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="069">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>COLETA SL</Sello_discográfico>
         <Año_de_publicación>1890</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD9</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="069">DE LA CALLE</Cancion>
+        <Cancion tiempo="069">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="069">POBRECITOS</Cancion>
+        <Cancion tiempo="069">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="069">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>LIFE LONG</Sello_discográfico>
         <Año_de_publicación>2020</Año_de_publicación>
     </CD>
     <CD>
-        <Título_del_album>MORAD</Título_del_album>
-        <Cancion tiempo="281">PELELE</Cancion>
-        <Cancion tiempo="281">DE LA CALLE</Cancion>
-        <Cancion tiempo="281">DRILL MI VIDA</Cancion>
-        <Cancion tiempo="281">POBRECITOS</Cancion>
-        <Cancion tiempo="281">LA CALLE Y SUS QUERER</Cancion>
-        <Cancion tiempo="281">LA VIDA ES</Cancion>
-        <Cancion tiempo="281">NORMAL</Cancion>
-        <Cancion tiempo="281">NO Y NO</Cancion>
-        <Cancion tiempo="281">EL COLETA</Cancion>
-        <Cancion tiempo="281">DIMELO VATO</Cancion>
+        <Título_del_album>MORAD10</Título_del_album>
+        <Cancion tiempo="069">PELELE</Cancion>
+        <Cancion tiempo="069">DE LA CALLE</Cancion>
+        <Cancion tiempo="069">DRILL MI VIDA</Cancion>
+        <Cancion tiempo="069">POBRECITOS</Cancion>
+        <Cancion tiempo="069">LA CALLE Y SUS QUERER</Cancion>
+        <Cancion tiempo="069">LA VIDA ES</Cancion>
+        <Cancion tiempo="069">NORMAL</Cancion>
+        <Cancion tiempo="069">NO Y NO</Cancion>
+        <Cancion tiempo="069">EL COLETA</Cancion>
+        <Cancion tiempo="069">DIMELO VATO</Cancion>
         <Sello_discográfico>WATER ML</Sello_discográfico>
         <Año_de_publicación>2017</Año_de_publicación>
     </CD>
